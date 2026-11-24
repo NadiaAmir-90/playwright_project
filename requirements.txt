@@ -1,0 +1,5 @@
+django
+playwright
+requests
+pillow
+python-dotenv
